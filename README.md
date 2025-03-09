@@ -40,13 +40,17 @@ Implement proactive measures to reduce churn rates.
 # Outcome
 
 ✔ A data-driven approach to understanding customer churn.
+
 ✔ Actionable insights to reduce churn and improve customer retention.
+
 ✔ A dashboard for visualizing key churn trends.
 
 # Technologies Used
 
 🔹 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 🔹 Data Processing (Pandas, NumPy)
+
 🔹 Data Visualization (Matplotlib, Seaborn, Streamlit, Power BI)
 
 # Conclusion
