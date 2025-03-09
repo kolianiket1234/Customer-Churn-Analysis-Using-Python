@@ -10,7 +10,7 @@ Subscription/transaction history: Purchase frequency, last purchase date, etc.
 Customer engagement metrics: Support interactions, activity levels, etc.
 Churn indicator: Whether the customer has churned (Yes/No).
 
-- <a href = "https://github.com/kolianiket1234/HR-Attrition-Dashboard/blob/main/HR_Analytics.csv"> View Dataset </a>
+- <a href = "https://github.com/kolianiket1234/Customer-Churn-Analysis-Using-Python/blob/main/Customer%20Churn.csv"> View Dataset </a>
 
 # Project Workflow
 
